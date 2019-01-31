@@ -1,0 +1,22 @@
+{
+    "name": "functionsadapter",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "license": "UNLICENSED",
+    "dependencies": {
+        "body": "^5.1.0",
+        "jimp": "^0.3.5",
+        "node-fetch": "^2.2.0",
+        "raw-body": "^2.3.3"
+    },
+    "devDependencies": {
+        "@types/node": "^10.7.0",
+        "@types/node-fetch": "^2.1.2",
+        "tslint": "^5.11.0",
+        "tslint-config-airbnb": "^5.10.0",
+        "typescript": "^3.0.1"
+    },
+    "scripts": {
+    }
+}
